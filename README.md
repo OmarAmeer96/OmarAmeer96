@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Omar Ameer</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center">A passionate mobile application developer from Egypt</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=omarameer96&label=Profile%20views&color=0e75b6&style=flat" alt="omarameer96" /> </p>
 
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **meal app**
 
-- 🌱 I’m currently learning **android, flutter**
+- 🌱 I’m currently learning **flutter, nodes.js**
 
-- 💬 Ask me about **flutter, dart, C++**
+- 💬 Ask me about **flutter, dart, C++, js, node.js**
 
 - 📫 How to reach me **omar.ameer244@gmail.com**
 
