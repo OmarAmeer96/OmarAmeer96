@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarameer96" alt="omarameer96" /></a> </p>
 
-- 🔭 I’m currently working on **meal app**
+- 🔭 I’m currently working on ** #####**
 
 - 🌱 I’m currently learning **flutter, nodes.js**
 
