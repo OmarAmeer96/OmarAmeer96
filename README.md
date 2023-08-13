@@ -6,15 +6,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarameer96" alt="omarameer96" /></a> </p>
 
-- 🔭 I’m currently working on #####
+- 🔭 I’m currently working on ----
 
-- 🌱 I’m currently learning **flutter, nodes.js**
+- 🌱 I’m currently learning **Flutter, Node.js**
 
-- 💬 Ask me about **flutter, dart, C++, js, node.js**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **omar.ameer244@gmail.com**
 
-- ⚡ Fun fact **I think I am funny 😊**
+- ⚡ Fun fact **Always learning 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
