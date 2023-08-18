@@ -1,4 +1,38 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<p align="center">
+<a href="https://github.com/OmarAmeer96">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=2000&pause=100&multiline=true&width=550&height=130&lines=Omar+Ameer+Mohamed;Mobile+Application+Developer" alt="Typing SVG" />
+</a>
+<br/>
+
+<a href="https://drive.google.com/uc?export=download&id=1xCHZbBtEMsM7H74h7qCFwKACZC80EqMK">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
+
+<a href="https://www.linkedin.com/in/omar-ameer-126b41231/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+
+<a href="mailto:omar.ameer244@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+
+<!-- Replace 'YOUR_GOOGLE_SCHOLAR_PROFILE_URL' with the URL of your Google Scholar profile -->
+<!-- <a href="YOUR_GOOGLE_SCHOLAR_PROFILE_URL" target="_blank">
+    <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a> -->
+
+<!-- Replace 'YOUR_PYPI_PROFILE_URL' with the URL of your PyPI profile -->
+<!-- <a href="YOUR_PYPI_PROFILE_URL">
+    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
+</a> -->
+
+<!-- Uncomment the following lines if you want to include GitHub stats -->
+<!--<a href="https://github.com/OmarAmeer96">
+    <img src="https://github-stats-alpha.vercel.app/api?username=OmarAmeer96&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>-->
+
+</p>
 <h1 align="center">Hi 👋, I'm Omar Ameer</h1>
 <h3 align="center">A passionate mobile application developer from Egypt</h3>
 
