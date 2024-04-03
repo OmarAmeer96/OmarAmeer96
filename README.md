@@ -40,7 +40,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarameer96" alt="omarameer96" /></a> </p>
 
-- 🔭 I’m currently working on **Black Market App**
+- 🔭 I’m currently working on **Medical Excel App**
 
 - 🌱 I’m currently learning **Flutter, Node.js**
 
