@@ -5,7 +5,7 @@
 </a>
 <br/>
 
-<a href="https://drive.google.com/file/d/1guDbdkim6Th0oViooUI0xaQCbz-UMX0l/view?usp=drive_link">
+<a href="https://drive.google.com/file/d/1l9Y84zTQsSsXJWBiCMv9Ftshyr3GWRgq/view?usp=sharing">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>
 
