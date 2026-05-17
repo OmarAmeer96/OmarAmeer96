@@ -186,12 +186,6 @@ Mobile Application Developer specializing in Flutter with a strong focus on buil
 
 > A cross-platform AI chatbot application delivering intelligent and responsive conversations. Integrated with the OpenAI API and managed with Provider for a clean, reactive state management architecture.
 
----
-
-**🏥 Medical Excel App** &nbsp;`Flutter` `Node.js`
-
-> Currently in development — a healthcare-focused application for managing and processing medical data with Excel integration.
-
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
